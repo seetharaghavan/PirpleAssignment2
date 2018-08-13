@@ -1,0 +1,1 @@
+Payment logs and other details are stored here
