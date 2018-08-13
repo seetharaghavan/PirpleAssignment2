@@ -101,12 +101,10 @@ token from tokens,
 userOrderHistory from orders 
 
 # Step7
-### Extend 
-Token ( refresh token and extend it by 1hr )
+### Extend Token ( refresh token and extend it by 1hr )
 
 # Step8
-#### Delete 
-Token destroys the specified token
+#### Delete Token destroys the specified token
 
 # Step9
 #### Orders
